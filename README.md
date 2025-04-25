@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, meu nome é Yan
 
-<!--
-**yanocosta02/yanocosta02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do último período de Informática Biomédica na UFPR — um curso que une Ciência da Computação e Saúde. Tenho interesse em desenvolvimento de software com impacto real e foco especial em engenharia de software, desenvolvimento web e tecnologias modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Principais habilidades
+
+- Desenvolvimento **web** com foco em aplicações funcionais e bem estruturadas  
+- Programação em **JavaScript**, **Python** e **Java**  
+- Conhecimento em **banco de dados relacionais** e modelagem  
+- Interesse crescente por **inteligência artificial**
+- Boas práticas de **engenharia de software**, com código limpo e manutenível
+
+---
+
+### 💼 O que você vai encontrar aqui
+
+- Projetos acadêmicos voltados à área da saúde e tecnologia  
+- Aplicações web simples e funcionais  
+- Estudos sobre desenvolvimento, algoritmos e IA  
+- Códigos organizados com foco no aprendizado e na prática real
+
+---
+
+### 📫 Vamos conversar?
+
+Me encontra no [LinkedIn](https://www.linkedin.com/in/yanoliveiradacosta/) ou explore meus repositórios aqui no GitHub!
+
+---
