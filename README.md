@@ -1,30 +1,38 @@
-# Olá, meu nome é Yan
+# Hello, I'm Yan 👍
 
-Sou estudante do último período de Informática Biomédica na UFPR — um curso que une Ciência da Computação e Saúde. Tenho interesse em desenvolvimento de software com impacto real e foco especial em engenharia de software, desenvolvimento web e tecnologias modernas.
-
----
-
-### 🛠️ Principais habilidades
-
-- Desenvolvimento **web** com foco em aplicações funcionais e bem estruturadas  
-- Programação em **JavaScript**, **Python** e **Java**  
-- Conhecimento em **banco de dados relacionais** e modelagem  
-- Interesse crescente por **inteligência artificial**
-- Boas práticas de **engenharia de software**, com código limpo e manutenível
+I'm a final-year Biomedical Informatics student at UFPR — a program that combines Computer Science and Healthcare. I’m passionate about software development with real-world impact, focusing especially on software engineering, web development, and modern technologies.
 
 ---
 
-### 💼 O que você vai encontrar aqui
+### 🛠️ Key Skills
 
-- Projetos acadêmicos voltados à área da saúde e tecnologia  
-- Aplicações web simples e funcionais  
-- Estudos sobre desenvolvimento, algoritmos e IA  
-- Códigos organizados com foco no aprendizado e na prática real
+- **Web Development** focused on building functional and well-structured applications  
+- Programming in **JavaScript**, **Python**, and **Java**  
+- Knowledge in **relational databases** and data modeling  
+- Growing interest in **Artificial Intelligence**  
+- Strong focus on **software engineering best practices**, with clean and maintainable code
+
+---
+
+### ⭐ Interests
+
+- Software Engineering and System Architecture  
+- Artificial Intelligence and its applications in healthcare  
+- Web and Full Stack Development  
+- Data Science and data-driven decision making  
+- Technological solutions for everyday challenges
 
 ---
 
-### 📫 Vamos conversar?
+### 💼 What you'll find here
 
-Me encontra no [LinkedIn](https://www.linkedin.com/in/yanoliveiradacosta/) ou explore meus repositórios aqui no GitHub!
+- Academic projects related to healthcare and technology  
+- Simple and functional web applications  
+- Studies on development, algorithms, and AI  
+- Well-organized code with a focus on learning and real-world applications
 
 ---
+
+### 📫 Let's Connect!
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/yanoliveiradacosta/) or explore my repositories here on GitHub!
