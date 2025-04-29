@@ -17,9 +17,7 @@ I'm a final-year Biomedical Informatics student at UFPR — a program that combi
 ### ⭐ Interests
 
 - Software Engineering and System Architecture  
-- Artificial Intelligence and its applications in healthcare  
 - Web and Full Stack Development  
-- Data Science and data-driven decision making  
 - Technological solutions for everyday challenges
 
 ---
